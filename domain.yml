@@ -60,6 +60,9 @@ intents:
   - collaboration
   - carrer
   - contact_us
+  - about classes 
+  - Ask_subscription_expired
+  - Ask_logical_skills_development
 
 responses:
   utter_greet:
